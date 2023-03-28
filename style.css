@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+h1{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    color: white;
+}
+ol{
+    color: white;
+}
+h3{
+    color: red;
+    text-align: center;
+}
+.img_superman{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+    box-shadow: 5px 5px 10px 5px red;
+}
+a{
+  color: red; 
+  background-color: transparent;
+  text-decoration: none; 
+}
